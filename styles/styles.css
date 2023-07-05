@@ -1,6 +1,8 @@
-p {
-    width: 150px;
-    height: 80px;
-    background-color: yellow;
-    transform: rotate(20deg);
+
+body {
+    background-color: blanchedalmond;
+    color: darkmagenta;
+  }
+  h3 {
+    color: green;
   }
